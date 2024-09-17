@@ -1,31 +1,35 @@
-{
-  "name": "Dragon Egg",
-  "description": "The dragon egg are the legacy of the Red Dragon. The owner of the egg play important part in the Red Dragon Ghost Guild, be sure to !PROTECT 🛡️it at all costs.",
-  "image": "https://raw.githubusercontent.com/johnnylcy/RedDragonGhost/main/DragonEggNFT/image/unrevealed.png",
-  "attributes": [
-    {
-      "trait_type": "Backgrounds",
-      "value": "unknown"
-    },
-    {
-      "trait_type": "Colour",
-      "value": "unknown"
-    },
-    {
-      "trait_type": "Glows",
-      "value": "unknown"
-    },
-    {
-      "trait_type": "Sides",
-      "value": "unknown"
-    },
-    {
-      "trait_type": "Top",
-      "value": "unknown"
-    },
-    {
-      "trait_type": "Gems",
-      "value": "unknown"
-    }
-  ]
+ {
+   "name": "Dragon Eggs #99",
+   "description": "The dragon egg are the legacy of the Red Dragon. The owner of the egg play important part in the Red Dragon Ghost Guild, be sure to !PROTECT 🛡️it at all costs.",
+   "image": "https://raw.githubusercontent.com/johnnylcy/RedDragonGhost/main/DragonEggNFT/image/99.png",
+   "attributes": [
+      {
+         "trait_type": "Backgrounds",
+         "value": "Dragon Hoard"
+      },
+      {
+         "trait_type": "Colour",
+         "value": "Green"
+      },
+      {
+         "trait_type": "Glows",
+         "value": "Beams"
+      },
+      {
+         "trait_type": "Sides",
+         "value": "None"
+      },
+      {
+         "trait_type": "Top",
+         "value": "None"
+      },
+      {
+         "trait_type": "Gems",
+         "value": "None"
+      },
+      {
+         "trait_type": "Size",
+         "value": "Normal"
+      }
+   ]
 }
