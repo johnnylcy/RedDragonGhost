@@ -5,7 +5,7 @@
    "attributes": [
       {
          "trait_type": "Backgrounds",
-         "value": "Blue"
+         "value": "Orange"
       },
       {
          "trait_type": "Colour",
@@ -17,7 +17,7 @@
       },
       {
          "trait_type": "Sides",
-         "value": "Golden Spikes"
+         "value": "None"
       },
       {
          "trait_type": "Top",
@@ -29,7 +29,7 @@
       },
       {
          "trait_type": "Size",
-         "value": "Normal"
+         "value": "Diamond"
       }
    ]
 }
